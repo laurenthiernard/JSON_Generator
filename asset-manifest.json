@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JSON_Generator/static/css/main.e3b91c2e.chunk.css",
+    "main.js": "/JSON_Generator/static/js/main.278ed4af.chunk.js",
+    "main.js.map": "/JSON_Generator/static/js/main.278ed4af.chunk.js.map",
+    "runtime-main.js": "/JSON_Generator/static/js/runtime-main.04b0f54b.js",
+    "runtime-main.js.map": "/JSON_Generator/static/js/runtime-main.04b0f54b.js.map",
+    "static/js/2.438956c2.chunk.js": "/JSON_Generator/static/js/2.438956c2.chunk.js",
+    "static/js/2.438956c2.chunk.js.map": "/JSON_Generator/static/js/2.438956c2.chunk.js.map",
+    "index.html": "/JSON_Generator/index.html",
+    "precache-manifest.6cd253cc60fb99be7b175a49ed8a3917.js": "/JSON_Generator/precache-manifest.6cd253cc60fb99be7b175a49ed8a3917.js",
+    "service-worker.js": "/JSON_Generator/service-worker.js",
+    "static/css/main.e3b91c2e.chunk.css.map": "/JSON_Generator/static/css/main.e3b91c2e.chunk.css.map",
+    "static/js/2.438956c2.chunk.js.LICENSE.txt": "/JSON_Generator/static/js/2.438956c2.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/JSON_Generator/static/media/bg.94cc27a5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04b0f54b.js",
+    "static/js/2.438956c2.chunk.js",
+    "static/css/main.e3b91c2e.chunk.css",
+    "static/js/main.278ed4af.chunk.js"
+  ]
+}
